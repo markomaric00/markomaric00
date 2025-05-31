@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @markomaric00
-- 👀 I’m interested in sports/soccer data analytics
-- 🌱 I’m currently learning and looking to get better in python
+- 🌱 I’m currently learning and looking to get better programmer
 
 <!---
 markomaric00/markomaric00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
